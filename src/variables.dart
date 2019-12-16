@@ -21,4 +21,5 @@ void main(){
 	while(year < 2016){
 	  year +=1;
 	}
+  flybyObjects.where((name)=>name.contains('turn')).forEach(print);
 }

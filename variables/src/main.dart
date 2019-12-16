@@ -1,4 +1,4 @@
 void main(){
-  var name = 'Bob';
-  print("$name: ${name.runtimeType}");
+  dynamic name = 'Bob';
+  print('$name, ${name.runtimeType}');
 }

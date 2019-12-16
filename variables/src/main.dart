@@ -1,4 +1,4 @@
 void main(){
-  dynamic name = 'Bob';
+  String name = 'Bob';
   print('$name, ${name.runtimeType}');
 }

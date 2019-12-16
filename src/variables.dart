@@ -1,3 +1,4 @@
+import 'dart:math';
 void main(){
   // This is a norma, one-line comment.
   /// This is a documentation comment, used to document libraries,

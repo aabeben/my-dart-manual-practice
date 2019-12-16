@@ -1,4 +1,9 @@
 void main(){
+  // This is a norma, one-line comment.
+  /// This is a documentation comment, used to document libraries,
+  /// classes, and their members. Tools like IDEs and dartdoc treat
+  /// doc comments specially.
+  /* Comments like these are also supported. */
 	var name = "Voyager I";
 	var year = 1977;
 	var antennaDiameter = 3.7;
